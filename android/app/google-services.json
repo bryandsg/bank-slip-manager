@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "219236779944",
+    "project_id": "payflow-57437",
+    "storage_bucket": "payflow-57437.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:219236779944:android:0a11453d99febbd913ff9d",
+        "android_client_info": {
+          "package_name": "com.example.bank_slip_manager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "219236779944-i07t8slcc4vhq2hj0ukotjelsiku12vg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bank_slip_manager",
+            "certificate_hash": "d0ed9ec0bf925aa546820e9168052855a46c9853"
+          }
+        },
+        {
+          "client_id": "219236779944-0u5gaethdqnapiel7df2d980650lfu9o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxOzqua60lTwkBVKUeX4Z6w1cguZTH8G4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "219236779944-0u5gaethdqnapiel7df2d980650lfu9o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
